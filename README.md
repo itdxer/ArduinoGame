@@ -10,4 +10,5 @@
 4. Driver MAX7219
 5. 4 Buttons
 6. Bunch of wires
-7. 4 resistors 470 Omh and 10 kOhm resitor
+7. four 470 Ohm resistors
+8. one 10 kOhm resistor
