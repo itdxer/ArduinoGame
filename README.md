@@ -4,9 +4,10 @@
 
 ## Components
 
-1. Arduino UNO
-2. 8x8 LED matrix
-3. Driver MAX7219
-4. 4 Buttons
-5. Bunch of wires
-6. 4 resistors 470 Omh and 10 kOhm resitor
+1. Breadboard
+2. Arduino UNO
+3. 8x8 LED matrix
+4. Driver MAX7219
+5. 4 Buttons
+6. Bunch of wires
+7. 4 resistors 470 Omh and 10 kOhm resitor
