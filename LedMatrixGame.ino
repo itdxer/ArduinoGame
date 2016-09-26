@@ -358,7 +358,7 @@ void checkIfMeteorTouchedSpaceship() {
   }
 }
 
-void checkIfSpaceshipRocketMeteor() {
+void checkIfSpaceshipHitMeteor() {
   Rocket rocket;
   Meteor meteor;
   
@@ -439,7 +439,7 @@ void loop() {
     drawMeteors();
   
     checkIfMeteorTouchedSpaceship();
-    checkIfSpaceshipRocketMeteor();
+    checkIfSpaceshipHitMeteor();
 
   } else {
     for (int i = 0; i < 15; i++) {
