@@ -1,6 +1,9 @@
 # Game with 8x8 LED matrix on Arduino
 
-![Game Preview](assets/game-preview.jpg)
+![](assets/game-preview.jpg)
+
+## Game Preview
+![](https://github.com/itdxer/blog.itdxer.com/blob/gh-pages/images/arduino-game/game-preview.gif)
 
 ## Components
 
